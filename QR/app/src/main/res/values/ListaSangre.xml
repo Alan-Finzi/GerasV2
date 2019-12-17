@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+          <item> <big>Grupo Sanguineo </big></item>
+        <item> <big>A positivo  </big></item>
+        <item> <big>A negativo  </big> </item>
+        <item> <big>b positivo  </big> </item>
+        <item> <big>b negativo  </big> </item>
+        <item> <big>AB positiv  </big> </item>
+        <item> <big>AB negativ  </big> </item>
+        <item> <big>0 negativo  </big> </item>
+    </string-array>
+</resources>
