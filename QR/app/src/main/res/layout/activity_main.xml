@@ -36,7 +36,7 @@
 
     <Spinner
         android:id="@+id/Sexo"
-        android:layout_width="114dp"
+        android:layout_width="130dp"
         android:layout_height="56dp"
         android:layout_gravity="center"
         android:hint="Sexo"
@@ -83,7 +83,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:onClick="aceptar"
-        android:text="Crear"
+        android:text="Crear QR"
         android:textSize="30dp" />
 
 </LinearLayout>
